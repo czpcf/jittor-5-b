@@ -2,6 +2,10 @@
 
 本项目参考自 [HuggingFace的训练指导](https://huggingface.co/docs/peft/main/en/task_guides/dreambooth_lora) 。
 
+## 权重下载
+
+https://cloud.tsinghua.edu.cn/f/c4a45eea8c2f4a6ebd25/?dl=1，解压至jittor-5-b\JDiffusion_singlepack，新建文件夹style并放于其中
+
 ## 环境安装
 
 ### 安装步骤
