@@ -4,7 +4,9 @@
 
 ## 权重下载
 
-https://cloud.tsinghua.edu.cn/f/c4a45eea8c2f4a6ebd25/?dl=1，解压至jittor-5-b\JDiffusion_singlepack，新建文件夹style并放于其中
+https://cloud.tsinghua.edu.cn/f/c4a45eea8c2f4a6ebd25/?dl=1
+
+解压至jittor-5-b\JDiffusion_singlepack，新建文件夹style并放于其中
 
 ## 环境安装
 
