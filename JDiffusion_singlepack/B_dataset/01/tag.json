@@ -1,0 +1,8 @@
+{
+    "item":{
+        "cactus":"cactus, plant",
+        "sunflower":"sunflower, flower, leaf",
+        "tree":"tree, scenery, nature"
+    },
+    "style":"watercolor, paint"
+}

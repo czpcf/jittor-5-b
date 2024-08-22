@@ -1,0 +1,8 @@
+{
+    "item":{
+        "Backpack":"backpack, bag",
+        "Dolphin":"dolphin, marine",
+        "Lion":"lion, feline"
+    },
+    "style":"paper cut,depth_of_field"
+}

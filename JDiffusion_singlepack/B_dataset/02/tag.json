@@ -1,0 +1,8 @@
+{
+    "item":{
+        "cow":"eyes, cow, nose, horn, animal",
+        "duck":"duck, bird, animal",
+        "monkey":"monkey, eyes, nose, animal"
+    },
+    "style":"yarn, wool"
+}

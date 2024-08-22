@@ -1,0 +1,8 @@
+{
+    "item":{
+        "astronaut":"astronaut, human",
+        "golfer":"golfer, golf, a man playing golf",
+        "snowboarder":"snowboard, a man playing snowboard"
+    },
+    "style":"colorful"
+}

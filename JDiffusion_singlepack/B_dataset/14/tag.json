@@ -1,0 +1,8 @@
+{
+    "item":{
+        "galloping_horse":"horse",
+        "ram_headbutting":"ram, goat, horn",
+        "soaring_eagle":"eagle, beak"
+    },
+    "style":"simple_background, lineart"
+}

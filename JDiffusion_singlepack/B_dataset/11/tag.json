@@ -1,0 +1,8 @@
+{
+    "item":{
+        "fish":"simple_background, fish, water",
+        "house":"house, garden",
+        "moon":"moon, sky, cloud"
+    },
+    "style":"simple_background, heavy_line,"
+}

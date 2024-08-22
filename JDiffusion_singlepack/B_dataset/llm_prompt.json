@@ -1,0 +1,3112 @@
+{
+    "Dolphin": {
+        "different": [
+            "Whale",
+            "Shark",
+            "Seal"
+        ],
+        "property": [
+            "playful",
+            "smart",
+            "sea"
+        ],
+        "hypernyms": [
+            "mammal",
+            "marine_animal",
+            "creature"
+        ]
+    },
+    "Bread": {
+        "different": [
+            "pasta",
+            "rice",
+            "potato"
+        ],
+        "property": [
+            "crusty",
+            "fluffy",
+            "slice",
+            "food"
+        ],
+        "hypernyms": [
+            "food",
+            "grain",
+            "produce"
+        ]
+    },
+    "Kangaroo": {
+        "different": [
+            "zebra",
+            "elephant",
+            "antelope"
+        ],
+        "property": [
+            "pouch",
+            "tail",
+            "hopping",
+            "mammal"
+        ],
+        "hypernyms": [
+            "animal",
+            "mammal",
+            "herbivore"
+        ]
+    },
+    "Falcon": {
+        "different": [
+            "eagle",
+            "hawk",
+            "owl"
+        ],
+        "property": [
+            "talon",
+            "sharp_eye",
+            "swift",
+            "bird_of_prey"
+        ],
+        "hypernyms": [
+            "raptor",
+            "aviary",
+            "creature"
+        ]
+    },
+    "Moon": {
+        "different": [
+            "sun",
+            "star",
+            "planet"
+        ],
+        "property": [
+            "bright",
+            "night",
+            "sky",
+            "celestial"
+        ],
+        "hypernyms": [
+            "astral_body",
+            "round"
+        ]
+    },
+    "Lighthouse": {
+        "different": [
+            "tower",
+            "monument",
+            "bridge"
+        ],
+        "property": [
+            "beacon",
+            "light",
+            "sea",
+            "navigation"
+        ],
+        "hypernyms": [
+            "structure",
+            "landmark",
+            "building"
+        ]
+    },
+    "Cinema": {
+        "different": [
+            "Theater",
+            "Drive_in",
+            "Multiplex"
+        ],
+        "property": [
+            "entertainment",
+            "popcorn",
+            "screens"
+        ],
+        "hypernyms": [
+            "indoors",
+            "film"
+        ]
+    },
+    "Island": {
+        "different": [
+            "continent",
+            "country",
+            "state"
+        ],
+        "property": [
+            "ocean",
+            "sand",
+            "trees",
+            "beach"
+        ],
+        "hypernyms": [
+            "landmass",
+            "geography",
+            "landform"
+        ]
+    },
+    "Wallet": {
+        "different": [
+            "Purse",
+            "Billfold",
+            "Money_Clip"
+        ],
+        "property": [
+            "leather",
+            "compact",
+            "secure"
+        ],
+        "hypernyms": [
+            "accessory",
+            "carryall",
+            "finance"
+        ]
+    },
+    "Table": {
+        "different": [
+            "chair",
+            "couch",
+            "bed"
+        ],
+        "property": [
+            "wood",
+            "legs",
+            "flat",
+            "furniture"
+        ],
+        "hypernyms": [
+            "furnishing",
+            "structure",
+            "surface"
+        ]
+    },
+    "Flower": {
+        "different": [
+            "tree",
+            "bush",
+            "grass"
+        ],
+        "property": [
+            "petal",
+            "stem",
+            "fragrant",
+            "plant"
+        ],
+        "hypernyms": [
+            "bloom",
+            "garden",
+            "botany"
+        ]
+    },
+    "Museum": {
+        "different": [
+            "library",
+            "theater",
+            "gallery"
+        ],
+        "property": [
+            "art",
+            "history",
+            "educational",
+            "cultural"
+        ],
+        "hypernyms": [
+            "institution",
+            "building"
+        ]
+    },
+    "Studio": {
+        "different": [
+            "workshop",
+            "office",
+            "classroom"
+        ],
+        "property": [
+            "artistic",
+            "creative",
+            "workplace",
+            "private"
+        ],
+        "hypernyms": [
+            "workspace",
+            "room",
+            "building"
+        ]
+    },
+    "Dog": {
+        "different": [
+            "cat",
+            "bird",
+            "fish"
+        ],
+        "property": [
+            "wagging_tail",
+            "four_legs",
+            "furry",
+            "friendly"
+        ],
+        "hypernyms": [
+            "mammal",
+            "pet",
+            "animal"
+        ]
+    },
+    "Tulip": {
+        "different": [
+            "rose",
+            "daisy",
+            "lily"
+        ],
+        "property": [
+            "petal",
+            "thorn",
+            "scented",
+            "flower"
+        ],
+        "hypernyms": [
+            "plant",
+            "garden",
+            "floral"
+        ]
+    },
+    "Pencil": {
+        "different": [
+            "pen",
+            "marker",
+            "brush"
+        ],
+        "property": [
+            "wooden",
+            "graphite",
+            "eraser",
+            "writing_instrument"
+        ],
+        "hypernyms": [
+            "stationery",
+            "drawing_tool",
+            "tool"
+        ]
+    },
+    "Zebra": {
+        "different": [
+            "Horse",
+            "Giraffe",
+            "Lion"
+        ],
+        "property": [
+            "stripes",
+            "wild",
+            "graceful"
+        ],
+        "hypernyms": [
+            "mammal",
+            "african_animal",
+            "herbivore"
+        ]
+    },
+    "Playground": {
+        "different": [
+            "park",
+            "gym",
+            "track"
+        ],
+        "property": [
+            "slide",
+            "swing",
+            "sandbox",
+            "fun"
+        ],
+        "hypernyms": [
+            "recreation_area",
+            "facility",
+            "play_area"
+        ]
+    },
+    "Phone": {
+        "different": [
+            "Tablet",
+            "Laptop",
+            "Smartwatch"
+        ],
+        "property": [
+            "touchscreen",
+            "portable",
+            "connectivity"
+        ],
+        "hypernyms": [
+            "device",
+            "communication",
+            "technology"
+        ]
+    },
+    "Aquarium": {
+        "different": [
+            "Zoo",
+            "Safari_Park",
+            "Botanical_Garden"
+        ],
+        "property": [
+            "fish",
+            "water",
+            "observation"
+        ],
+        "hypernyms": [
+            "attraction",
+            "habitat",
+            "entertainment"
+        ]
+    },
+    "Tomato": {
+        "different": [
+            "apple",
+            "banana",
+            "cherry"
+        ],
+        "property": [
+            "juicy",
+            "fruit",
+            "sliced"
+        ],
+        "hypernyms": [
+            "vegetable",
+            "produce",
+            "food"
+        ]
+    },
+    "Milk": {
+        "different": [
+            "Water",
+            "Juice",
+            "Soda"
+        ],
+        "property": [
+            "liquid",
+            "nutritious"
+        ],
+        "hypernyms": [
+            "beverage",
+            "dairy",
+            "drink"
+        ]
+    },
+    "Fork": {
+        "different": [
+            "knife",
+            "spoon",
+            "chopsticks"
+        ],
+        "property": [
+            "tines",
+            "metal",
+            "utensil",
+            "eating"
+        ],
+        "hypernyms": [
+            "cutlery",
+            "tableware"
+        ]
+    },
+    "Plate": {
+        "different": [
+            "Bowl",
+            "Cup",
+            "Saucer"
+        ],
+        "property": [
+            "ceramic",
+            "breakable"
+        ],
+        "hypernyms": [
+            "dishes",
+            "utensil",
+            "tableware"
+        ]
+    },
+    "Lion": {
+        "different": [
+            "tiger",
+            "leopard",
+            "jaguar"
+        ],
+        "property": [
+            "mane",
+            "roar",
+            "king_of_beasts",
+            "mammal"
+        ],
+        "hypernyms": [
+            "animal",
+            "mammal",
+            "carnivore"
+        ]
+    },
+    "Hat": {
+        "different": [
+            "cap",
+            "beret",
+            "hood"
+        ],
+        "property": [
+            "brim",
+            "head_covering",
+            "fashion",
+            "accessory"
+        ],
+        "hypernyms": [
+            "headwear",
+            "millinery",
+            "clothing"
+        ]
+    },
+    "Cow": {
+        "different": [
+            "horse",
+            "sheep",
+            "goat"
+        ],
+        "property": [
+            "udder",
+            "spot",
+            "grass",
+            "moo"
+        ],
+        "hypernyms": [
+            "mammal",
+            "livestock",
+            "animal"
+        ]
+    },
+    "Ant": {
+        "different": [
+            "bee",
+            "fly",
+            "spider"
+        ],
+        "property": [
+            "small",
+            "strong",
+            "industrious",
+            "six_legged"
+        ],
+        "hypernyms": [
+            "insect",
+            "arthropod",
+            "colony"
+        ]
+    },
+    "Fish": {
+        "different": [
+            "shrimp",
+            "turtle",
+            "dolphin"
+        ],
+        "property": [
+            "scales",
+            "gills",
+            "fins",
+            "swimming"
+        ],
+        "hypernyms": [
+            "aquatic_animal",
+            "vertebrate",
+            "seafood"
+        ]
+    },
+    "Cherry": {
+        "different": [
+            "strawberry",
+            "blueberry",
+            "raspberry"
+        ],
+        "property": [
+            "red",
+            "stone",
+            "sweet",
+            "fruit"
+        ],
+        "hypernyms": [
+            "berry",
+            "produce",
+            "food"
+        ]
+    },
+    "Bear": {
+        "different": [
+            "lion",
+            "tiger",
+            "wolf"
+        ],
+        "property": [
+            "fur",
+            "claws",
+            "wild",
+            "mammal"
+        ],
+        "hypernyms": [
+            "animal",
+            "predator",
+            "ursidae"
+        ]
+    },
+    "Building": {
+        "different": [
+            "bridge",
+            "monument",
+            "shed"
+        ],
+        "property": [
+            "walls",
+            "roof",
+            "windows",
+            "structure"
+        ],
+        "hypernyms": [
+            "architecture",
+            "edifice",
+            "construction"
+        ]
+    },
+    "Fence": {
+        "different": [
+            "wall",
+            "barrier",
+            "hedge"
+        ],
+        "property": [
+            "wooden",
+            "chain_link",
+            "privacy",
+            "enclosure"
+        ],
+        "hypernyms": [
+            "boundary",
+            "obstacle",
+            "structure"
+        ]
+    },
+    "Tower": {
+        "different": [
+            "lighthouse",
+            "monument",
+            "bridge"
+        ],
+        "property": [
+            "beacon",
+            "light",
+            "sea",
+            "navigation"
+        ],
+        "hypernyms": [
+            "structure",
+            "landmark",
+            "building"
+        ]
+    },
+    "Soda": {
+        "different": [
+            "juice",
+            "water",
+            "milk"
+        ],
+        "property": [
+            "carbonated",
+            "sweet",
+            "bubbly",
+            "cold"
+        ],
+        "hypernyms": [
+            "beverage",
+            "drink",
+            "refreshment"
+        ]
+    },
+    "Theatre": {
+        "different": [
+            "cinema",
+            "opera_house",
+            "circus"
+        ],
+        "property": [
+            "performing_arts",
+            "seats",
+            "stage",
+            "audience"
+        ],
+        "hypernyms": [
+            "entertainment",
+            "venue",
+            "building"
+        ]
+    },
+    "Park": {
+        "different": [
+            "garden",
+            "square",
+            "forest"
+        ],
+        "property": [
+            "grass",
+            "trees",
+            "relaxing"
+        ],
+        "hypernyms": [
+            "open_space",
+            "landscape",
+            "recreational_area"
+        ]
+    },
+    "Fire": {
+        "different": [
+            "water",
+            "air",
+            "earth"
+        ],
+        "property": [
+            "flame",
+            "heat",
+            "light",
+            "element"
+        ],
+        "hypernyms": [
+            "combustion",
+            "energy",
+            "phenomenon"
+        ]
+    },
+    "Grass": {
+        "different": [
+            "tree",
+            "flower",
+            "weed"
+        ],
+        "property": [
+            "blade",
+            "ground_cover",
+            "plant"
+        ],
+        "hypernyms": [
+            "vegetation",
+            "lawn",
+            "garden"
+        ]
+    },
+    "Watch": {
+        "different": [
+            "clock",
+            "alarm",
+            "timer"
+        ],
+        "property": [
+            "hands",
+            "face",
+            "time",
+            "device"
+        ],
+        "hypernyms": [
+            "timepiece",
+            "instrument",
+            "tool"
+        ]
+    },
+    "Deer": {
+        "different": [
+            "moose",
+            "elope",
+            "antelope"
+        ],
+        "property": [
+            "antler",
+            "hoof",
+            "graceful",
+            "animal"
+        ],
+        "hypernyms": [
+            "mammal",
+            "herbivore",
+            "creature"
+        ]
+    },
+    "Chopsticks": {
+        "different": [
+            "fork",
+            "spoon",
+            "knife"
+        ],
+        "property": [
+            "wooden",
+            "eating_utensil",
+            "pincer",
+            "asian_cuisine"
+        ],
+        "hypernyms": [
+            "tool",
+            "dining_equipment"
+        ]
+    },
+    "Road": {
+        "different": [
+            "path",
+            "track",
+            "pavement"
+        ],
+        "property": [
+            "blacktop",
+            "curve",
+            "direction",
+            "transport"
+        ],
+        "hypernyms": [
+            "route",
+            "travel_path",
+            "transportation"
+        ]
+    },
+    "Potato": {
+        "different": [
+            "carrot",
+            "onion",
+            "sweet_potato"
+        ],
+        "property": [
+            "mashed",
+            "baked",
+            "french_fried",
+            "vegetable"
+        ],
+        "hypernyms": [
+            "root_vegetable",
+            "produce",
+            "food"
+        ]
+    },
+    "School": {
+        "different": [
+            "college",
+            "university",
+            "institute"
+        ],
+        "property": [
+            "classrooms",
+            "students",
+            "teachers",
+            "education"
+        ],
+        "hypernyms": [
+            "building"
+        ]
+    },
+    "Monkey": {
+        "different": [
+            "cat",
+            "dog",
+            "bird"
+        ],
+        "property": [
+            "tail",
+            "climbing",
+            "gray",
+            "animal"
+        ],
+        "hypernyms": [
+            "mammal",
+            "primate",
+            "creature"
+        ]
+    },
+    "Donkey": {
+        "different": [
+            "horse",
+            "sheep",
+            "goat"
+        ],
+        "property": [
+            "ears",
+            "stubborn",
+            "pack_animal",
+            "mammal"
+        ],
+        "hypernyms": [
+            "equine",
+            "animal",
+            "beast_of_burden"
+        ]
+    },
+    "Temple": {
+        "different": [
+            "church",
+            "mosque",
+            "synagogue"
+        ],
+        "property": [
+            "sanctuary",
+            "altar",
+            "ritual",
+            "religion"
+        ],
+        "hypernyms": [
+            "place_of_worship",
+            "spiritual_center",
+            "religious_building"
+        ]
+    },
+    "Canyon": {
+        "different": [
+            "mountain",
+            "plain",
+            "valley"
+        ],
+        "property": [
+            "deep",
+            "narrow",
+            "rocky",
+            "geography"
+        ],
+        "hypernyms": [
+            "landform",
+            "topography",
+            "geography"
+        ]
+    },
+    "Rabbit": {
+        "different": [
+            "hare",
+            "bunny",
+            "rodent"
+        ],
+        "property": [
+            "ears",
+            "tail",
+            "furry",
+            "fast"
+        ],
+        "hypernyms": [
+            "mammal",
+            "pet",
+            "animal"
+        ]
+    },
+    "Pool": {
+        "different": [
+            "lake",
+            "ocean",
+            "stream"
+        ],
+        "property": [
+            "water",
+            "calm",
+            "geography"
+        ],
+        "hypernyms": [
+            "body_of_water",
+            "water_feature",
+            "landform"
+        ]
+    },
+    "Farm": {
+        "different": [
+            "ranch",
+            "orchard",
+            "vineyard"
+        ],
+        "property": [
+            "fields",
+            "crops",
+            "animals",
+            "agriculture"
+        ],
+        "hypernyms": [
+            "estate",
+            "land",
+            "farming"
+        ]
+    },
+    "Coat": {
+        "different": [
+            "jacket",
+            "sweater",
+            "blazer"
+        ],
+        "property": [
+            "warm",
+            "outerwear",
+            "buttons",
+            "clothing"
+        ],
+        "hypernyms": [
+            "garment",
+            "apparel",
+            "fashion"
+        ]
+    },
+    "Ring": {
+        "different": [
+            "necklace",
+            "bracelet",
+            "brooch"
+        ],
+        "property": [
+            "band",
+            "stone",
+            "jewelry"
+        ],
+        "hypernyms": [
+            "accessory",
+            "ornament",
+            "adornment"
+        ]
+    },
+    "Cheese": {
+        "different": [
+            "butter",
+            "yogurt",
+            "milk"
+        ],
+        "property": [
+            "slice",
+            "smell",
+            "dairy"
+        ],
+        "hypernyms": [
+            "food",
+            "product",
+            "ingredient"
+        ]
+    },
+    "Hospital": {
+        "different": [
+            "clinic",
+            "pharmacy",
+            "nursing_home"
+        ],
+        "property": [
+            "wards",
+            "doctors",
+            "emergency",
+            "medical"
+        ],
+        "hypernyms": [
+            "institution",
+            "building"
+        ]
+    },
+    "Watermelon": {
+        "different": [
+            "grapefruit",
+            "papaya",
+            "mango"
+        ],
+        "property": [
+            "seeds",
+            "juicy",
+            "fruit"
+        ],
+        "hypernyms": [
+            "produce",
+            "food",
+            "fruit"
+        ]
+    },
+    "Dress": {
+        "different": [
+            "Skirt",
+            "Blouse",
+            "Suit"
+        ],
+        "property": [
+            "elegant",
+            "flowing",
+            "patterned"
+        ],
+        "hypernyms": [
+            "clothing",
+            "fashion",
+            "attire"
+        ]
+    },
+    "Camera": {
+        "different": [
+            "phone",
+            "tablet",
+            "computer"
+        ],
+        "property": [
+            "lens",
+            "button",
+            "memory_card",
+            "tool"
+        ],
+        "hypernyms": [
+            "device",
+            "equipment",
+            "technology"
+        ]
+    },
+    "Market": {
+        "different": [
+            "mall",
+            "bazaar",
+            "fair"
+        ],
+        "property": [
+            "busy",
+            "stalls",
+            "shopping",
+            "food"
+        ],
+        "hypernyms": [
+            "commercial_area",
+            "retail",
+            "public_space"
+        ]
+    },
+    "Bamboo": {
+        "different": [
+            "reed",
+            "cane",
+            "grass"
+        ],
+        "property": [
+            "fast_growing",
+            "flexible",
+            "plant"
+        ],
+        "hypernyms": [
+            "tree",
+            "pseudograin"
+        ]
+    },
+    "Tea": {
+        "different": [
+            "coffee",
+            "milk",
+            "water"
+        ],
+        "property": [
+            "beverage",
+            "hot",
+            "caffeine",
+            "traditional"
+        ],
+        "hypernyms": [
+            "drink",
+            "beverage",
+            "food_and_beverage"
+        ]
+    },
+    "Forest": {
+        "different": [
+            "jungle",
+            "savannah",
+            "taiga"
+        ],
+        "property": [
+            "trees",
+            "canopy",
+            "wildlife",
+            "dense"
+        ],
+        "hypernyms": [
+            "ecosystem",
+            "biome",
+            "woodland"
+        ]
+    },
+    "Pineapple": {
+        "different": [
+            "mango",
+            "banana",
+            "coconut"
+        ],
+        "property": [
+            "tropical",
+            "spiky",
+            "sweet"
+        ],
+        "hypernyms": [
+            "fruit",
+            "produce",
+            "edible"
+        ]
+    },
+    "Rose": {
+        "different": [
+            "Lily",
+            "Tulip",
+            "Daisy"
+        ],
+        "property": [
+            "petals",
+            "thorns",
+            "aromatic"
+        ],
+        "hypernyms": [
+            "flower",
+            "plant",
+            "garden"
+        ]
+    },
+    "Rocket": {
+        "different": [
+            "Missile",
+            "Satellite",
+            "Space_Shuttle"
+        ],
+        "property": [
+            "powerful",
+            "speedy",
+            "smoke_trail"
+        ],
+        "hypernyms": [
+            "vehicle",
+            "spacecraft",
+            "technology"
+        ]
+    },
+    "Sand": {
+        "different": [
+            "water",
+            "air",
+            "earth"
+        ],
+        "property": [
+            "grainy",
+            "beach",
+            "hot",
+            "element"
+        ],
+        "hypernyms": [
+            "pile",
+            "particulate"
+        ]
+    },
+    "Headphones": {
+        "different": [
+            "earplugs",
+            "microphone",
+            "speaker"
+        ],
+        "property": [
+            "ear_cups",
+            "cable",
+            "music",
+            "sound"
+        ],
+        "hypernyms": [
+            "audio_device",
+            "electronic_device",
+            "technology"
+        ]
+    },
+    "Bed": {
+        "different": [
+            "couch",
+            "chair",
+            "table"
+        ],
+        "property": [
+            "soft",
+            "comfortable",
+            "sheet",
+            "furniture"
+        ],
+        "hypernyms": [
+            "sleeping_area",
+            "resting_place",
+            "furnishing"
+        ]
+    },
+    "Library": {
+        "different": [
+            "bookstore",
+            "museum",
+            "theater"
+        ],
+        "property": [
+            "books",
+            "shelves",
+            "quiet",
+            "educational"
+        ],
+        "hypernyms": [
+            "institution",
+            "place_of_learning",
+            "public_space"
+        ]
+    },
+    "Zoo": {
+        "different": [
+            "aquarium",
+            "sanctuary",
+            "reserve"
+        ],
+        "property": [
+            "cage",
+            "exhibit",
+            "animal",
+            "public"
+        ],
+        "hypernyms": [
+            "facility",
+            "park",
+            "conservation_area"
+        ]
+    },
+    "Pillow": {
+        "different": [
+            "blanket",
+            "sheet",
+            "mattress"
+        ],
+        "property": [
+            "soft",
+            "comfort",
+            "sleep",
+            "cushion"
+        ],
+        "hypernyms": [
+            "furniture",
+            "interior",
+            "bedding"
+        ]
+    },
+    "Airport": {
+        "different": [
+            "train_station",
+            "bus_station",
+            "port"
+        ],
+        "property": [
+            "terminal",
+            "runway",
+            "security_check",
+            "busy"
+        ],
+        "hypernyms": [
+            "transportation_hub",
+            "facility",
+            "commercial_space"
+        ]
+    },
+    "Grapes": {
+        "different": [
+            "apple",
+            "banana",
+            "orange"
+        ],
+        "property": [
+            "bunch",
+            "juicy",
+            "vineyard"
+        ],
+        "hypernyms": [
+            "fruit",
+            "produce"
+        ]
+    },
+    "Ball": {
+        "different": [
+            "ping_pong_ball",
+            "tennis_ball",
+            "golf_ball"
+        ],
+        "property": [
+            "round",
+            "bounce",
+            "sports",
+            "red"
+        ],
+        "hypernyms": [
+            "sphere",
+            "object",
+            "toy"
+        ]
+    },
+    "Pizza": {
+        "different": [
+            "pasta",
+            "burger",
+            "salad"
+        ],
+        "property": [
+            "crust",
+            "topping",
+            "slice",
+            "delicious"
+        ],
+        "hypernyms": [
+            "food",
+            "dish",
+            "meal"
+        ]
+    },
+    "Desk": {
+        "different": [
+            "table",
+            "chair",
+            "cabinet"
+        ],
+        "property": [
+            "flat",
+            "surface",
+            "work",
+            "furniture"
+        ],
+        "hypernyms": [
+            "table",
+            "furniture"
+        ]
+    },
+    "Pants": {
+        "different": [
+            "shorts",
+            "skirt",
+            "jeans"
+        ],
+        "property": [
+            "cloth",
+            "pocket",
+            "zipper",
+            "comfortable"
+        ],
+        "hypernyms": [
+            "garment",
+            "apparel",
+            "bottom"
+        ]
+    },
+    "Towel": {
+        "different": [
+            "sheet",
+            "blanket",
+            "rug"
+        ],
+        "property": [
+            "absorbent",
+            "soft",
+            "textured",
+            "cloth"
+        ],
+        "hypernyms": [
+            "cloth",
+            "textile",
+            "towel"
+        ]
+    },
+    "Cucumber": {
+        "different": [
+            "carrot",
+            "zucchini",
+            "tomato"
+        ],
+        "property": [
+            "crisp",
+            "veggie",
+            "sliced"
+        ],
+        "hypernyms": [
+            "vegetable",
+            "produce",
+            "food"
+        ]
+    },
+    "Shark": {
+        "different": [
+            "whale",
+            "dolphin",
+            "fish"
+        ],
+        "property": [
+            "fin",
+            "tooth",
+            "cartilage",
+            "ocean"
+        ],
+        "hypernyms": [
+            "animal",
+            "predator",
+            "sea_life"
+        ]
+    },
+    "Beach": {
+        "different": [
+            "desert",
+            "meadow",
+            "cliff"
+        ],
+        "property": [
+            "sand",
+            "wave",
+            "shore",
+            "relaxing"
+        ],
+        "hypernyms": [
+            "coast",
+            "seaside",
+            "landform"
+        ]
+    },
+    "Peacock": {
+        "different": [
+            "rooster",
+            "swan",
+            "parrot"
+        ],
+        "property": [
+            "feather",
+            "tail",
+            "beautiful",
+            "bird"
+        ],
+        "hypernyms": [
+            "bird",
+            "avian",
+            "avian_wildlife"
+        ]
+    },
+    "Sun": {
+        "different": [
+            "moon",
+            "star",
+            "planet"
+        ],
+        "property": [
+            "hot",
+            "bright",
+            "energy"
+        ],
+        "hypernyms": [
+            "astral_body",
+            "celestial_object",
+            "star"
+        ]
+    },
+    "Strawberry": {
+        "different": [
+            "blueberry",
+            "blackberry",
+            "raspberry"
+        ],
+        "property": [
+            "red",
+            "juicy",
+            "fruit",
+            "sweet"
+        ],
+        "hypernyms": [
+            "berry",
+            "produce",
+            "food"
+        ]
+    },
+    "Cup": {
+        "different": [
+            "glass",
+            "mug",
+            "bowl"
+        ],
+        "property": [
+            "handle",
+            "rim",
+            "liquid",
+            "container"
+        ],
+        "hypernyms": [
+            "utensil",
+            "vessel",
+            "drinking_vessel"
+        ]
+    },
+    "Restaurant": {
+        "different": [
+            "cafe",
+            "diner",
+            "food_truck"
+        ],
+        "property": [
+            "table",
+            "menu",
+            "waitress",
+            "atmosphere"
+        ],
+        "hypernyms": [
+            "eatery",
+            "establishment",
+            "business"
+        ]
+    },
+    "Barn": {
+        "different": [
+            "shed",
+            "stable",
+            "greenhouse"
+        ],
+        "property": [
+            "hay",
+            "wood",
+            "roof",
+            "farm"
+        ],
+        "hypernyms": [
+            "building",
+            "structure",
+            "agriculture"
+        ]
+    },
+    "Orange": {
+        "different": [
+            "banana",
+            "apple",
+            "grape"
+        ],
+        "property": [
+            "juicy",
+            "segment",
+            "zest",
+            "fruit"
+        ],
+        "hypernyms": [
+            " citrus",
+            "produce",
+            "food"
+        ]
+    },
+    "Eagle": {
+        "different": [
+            "Falcon",
+            "Hawk",
+            "Vulture"
+        ],
+        "property": [
+            "talons",
+            "sharp_beak",
+            "majestic"
+        ],
+        "hypernyms": [
+            "bird",
+            "raptor",
+            "predator"
+        ]
+    },
+    "Bottle": {
+        "different": [
+            "can",
+            "jug",
+            "jar"
+        ],
+        "property": [
+            "cap",
+            "label",
+            "liquid",
+            "container"
+        ],
+        "hypernyms": [
+            "vessel",
+            "packaging",
+            "storage"
+        ]
+    },
+    "Apple": {
+        "different": [
+            "pear",
+            "plum",
+            "cherry"
+        ],
+        "property": [
+            "crunchy",
+            "core",
+            "fruit"
+        ],
+        "hypernyms": [
+            "fruit",
+            "produce",
+            "food"
+        ]
+    },
+    "Volcano": {
+        "different": [
+            "mountain",
+            "crater",
+            "geyser"
+        ],
+        "property": [
+            "lava",
+            "ash",
+            "eruption",
+            "cone"
+        ],
+        "hypernyms": [
+            "landform",
+            "geology",
+            "natural_feature"
+        ]
+    },
+    "Scooter": {
+        "different": [
+            "motorcycle",
+            "bicycle",
+            "skateboard"
+        ],
+        "property": [
+            "handlebar",
+            "wheel",
+            "motor",
+            "transport"
+        ],
+        "hypernyms": [
+            "vehicle",
+            "ride",
+            "mode_of_transportation"
+        ]
+    },
+    "Leaf": {
+        "different": [
+            "petal",
+            "twig",
+            "seed"
+        ],
+        "property": [
+            "veined",
+            "fallen",
+            "plant_part"
+        ],
+        "hypernyms": [
+            "foliage",
+            "vegetation",
+            "botany"
+        ]
+    },
+    "Waterfall": {
+        "different": [
+            "Rapids",
+            "Creek",
+            "Geiser"
+        ],
+        "property": [
+            "cascade",
+            "Refreshing",
+            "Nature"
+        ],
+        "hypernyms": [
+            "water_feature",
+            "landscape",
+            "cascade"
+        ]
+    },
+    "Rug": {
+        "different": [
+            "carpet",
+            "mat",
+            "blanket"
+        ],
+        "property": [
+            "patterned",
+            "woolen",
+            "floor_covering",
+            "textile"
+        ],
+        "hypernyms": [
+            "home_furnishing",
+            "decoration",
+            "flooring"
+        ]
+    },
+    "Curtain": {
+        "different": [
+            "blind",
+            "shade",
+            "drapery"
+        ],
+        "property": [
+            "fabric",
+            "window_covering",
+            "flowing",
+            "decorative"
+        ],
+        "hypernyms": [
+            "room_divider",
+            "interior_decoration",
+            "textile"
+        ]
+    },
+    "Water": {
+        "different": [
+            "air",
+            "fire",
+            "earth"
+        ],
+        "property": [
+            "clear",
+            "fluid",
+            "wet",
+            "element"
+        ],
+        "hypernyms": [
+            "liquid",
+            "hydrate",
+            "natural_resource"
+        ]
+    },
+    "Cafe": {
+        "different": [
+            "restaurant",
+            "pub",
+            "diner"
+        ],
+        "property": [
+            "cozy",
+            "espresso",
+            "pastries",
+            "wifi"
+        ],
+        "hypernyms": [
+            "eatery",
+            "cafe",
+            "coffee_shop"
+        ]
+    },
+    "Swan": {
+        "different": [
+            "goose",
+            "duck",
+            "penguin"
+        ],
+        "property": [
+            "Graceful",
+            "long_neck",
+            "water_bird"
+        ],
+        "hypernyms": [
+            "bird",
+            "avian",
+            "waterfowl"
+        ]
+    },
+    "Belt": {
+        "different": [
+            "scarf",
+            "tie",
+            "sash"
+        ],
+        "property": [
+            "leather",
+            "buckle",
+            "strap",
+            "accessory"
+        ],
+        "hypernyms": [
+            "garment_accessory",
+            "fashion_item",
+            "apparel"
+        ]
+    },
+    "Shoes": {
+        "different": [
+            "boots",
+            "sandals",
+            "slippers"
+        ],
+        "property": [
+            "leather",
+            "soles",
+            "laces",
+            "footwear"
+        ],
+        "hypernyms": [
+            "shoes",
+            "apparel",
+            "accessories"
+        ]
+    },
+    "Plane": {
+        "different": [
+            "helicopter",
+            "train",
+            "ship"
+        ],
+        "property": [
+            "wings",
+            "engine",
+            "cockpit",
+            "aircraft"
+        ],
+        "hypernyms": [
+            "vehicle",
+            "transportation",
+            "aviation"
+        ]
+    },
+    "Mountain": {
+        "different": [
+            "hill",
+            "valley",
+            "plain"
+        ],
+        "property": [
+            "rocky",
+            "summit",
+            "slope",
+            "elevated"
+        ],
+        "hypernyms": [
+            "landform",
+            "topography",
+            "geography"
+        ]
+    },
+    "Workshop": {
+        "different": [
+            "studio",
+            "garage",
+            "lab"
+        ],
+        "property": [
+            "tools",
+            "workbench",
+            "creative",
+            "space"
+        ],
+        "hypernyms": [
+            "room",
+            "facility",
+            "building"
+        ]
+    },
+    "Painting": {
+        "different": [
+            "sculpture",
+            "drawing",
+            "print"
+        ],
+        "property": [
+            "canvas",
+            "brushstroke",
+            "colorful",
+            "art"
+        ],
+        "hypernyms": [
+            "artwork",
+            "creation",
+            "visual_art"
+        ]
+    },
+    "Hotel": {
+        "different": [
+            "motel",
+            "inn",
+            "hostel"
+        ],
+        "property": [
+            "rooms",
+            "lobby",
+            "service",
+            "lodging"
+        ],
+        "hypernyms": [
+            "accommodation",
+            "building",
+            "business"
+        ]
+    },
+    "Computer": {
+        "different": [
+            "laptop",
+            "tablet",
+            "server"
+        ],
+        "property": [
+            "screen",
+            "keyboard",
+            "processor",
+            "technology"
+        ],
+        "hypernyms": [
+            "device",
+            "screen",
+            "hardware"
+        ]
+    },
+    "Bridge": {
+        "different": [
+            "tunnel",
+            "road",
+            "path"
+        ],
+        "property": [
+            "span",
+            "arch",
+            "support",
+            "infrastructure"
+        ],
+        "hypernyms": [
+            "structure",
+            "construction",
+            "transportation"
+        ]
+    },
+    "Onion": {
+        "different": [
+            "garlic",
+            "shallot",
+            "scallion"
+        ],
+        "property": [
+            "layered",
+            "crunchy",
+            "tearjerker",
+            "vegetable"
+        ],
+        "hypernyms": [
+            "allium",
+            "produce",
+            "food"
+        ]
+    },
+    "Bee": {
+        "different": [
+            "wasp",
+            "hornet",
+            "fly"
+        ],
+        "property": [
+            "stinger",
+            "hive",
+            "insect"
+        ],
+        "hypernyms": [
+            "insect",
+            "creature",
+            "pollinator"
+        ]
+    },
+    "Radio": {
+        "different": [
+            "tv",
+            "speaker",
+            "microwave"
+        ],
+        "property": [
+            "tuner",
+            "antenna",
+            "audio",
+            "electronic"
+        ],
+        "hypernyms": [
+            "communication_device",
+            "entertainment",
+            "hardware"
+        ]
+    },
+    "Fox": {
+        "different": [
+            "wolf",
+            "dog",
+            "cat"
+        ],
+        "property": [
+            "bushy_tail",
+            "clever",
+            "mammal"
+        ],
+        "hypernyms": [
+            "canid",
+            "predator",
+            "animal"
+        ]
+    },
+    "Earrings": {
+        "different": [
+            "necklace",
+            "bracelet",
+            "ring"
+        ],
+        "property": [
+            "chain",
+            "pendant",
+            "jewelry",
+            "accessory"
+        ],
+        "hypernyms": [
+            "accessory",
+            "ornament",
+            "adornment"
+        ]
+    },
+    "Star": {
+        "different": [
+            "planet",
+            "moon",
+            "comet"
+        ],
+        "property": [
+            "bright",
+            "night",
+            "sky",
+            "celestial"
+        ],
+        "hypernyms": [
+            "astral_body",
+            "cosmic_object",
+            "heavenly_body"
+        ]
+    },
+    "Whale": {
+        "different": [
+            "shark",
+            "dolphin",
+            "seal"
+        ],
+        "property": [
+            "size",
+            "ocean",
+            "spout",
+            "mammal"
+        ],
+        "hypernyms": [
+            "marine_life",
+            "creature",
+            "cetacean"
+        ]
+    },
+    "Sushi": {
+        "different": [
+            "ramen",
+            "tempura",
+            "teriyaki"
+        ],
+        "property": [
+            "rice",
+            "raw_fish",
+            "soy_sauce",
+            "delicate"
+        ],
+        "hypernyms": [
+            "food",
+            "japanese_cuisine",
+            "seafood"
+        ]
+    },
+    "Lavender": {
+        "different": [
+            "rose",
+            "daisy",
+            "lily"
+        ],
+        "property": [
+            "scented",
+            "field",
+            "flower"
+        ],
+        "hypernyms": [
+            "herb",
+            "plant",
+            "perennial"
+        ]
+    },
+    "Umbrella": {
+        "different": [
+            "raincoat",
+            "hat",
+            "galoshes"
+        ],
+        "property": [
+            "canopy",
+            "handle",
+            "protective",
+            "accessory"
+        ],
+        "hypernyms": [
+            "weather_protection",
+            "shade",
+            "equipment"
+        ]
+    },
+    "Octopus": {
+        "different": [
+            "squid",
+            "cuttlefish",
+            "nautilus"
+        ],
+        "property": [
+            "tentacle",
+            "ink",
+            "ocean",
+            "cephalopod"
+        ],
+        "hypernyms": [
+            "sea_life",
+            "creature",
+            "mollusk"
+        ]
+    },
+    "Cactus": {
+        "different": [
+            "fern",
+            "palm",
+            "moss"
+        ],
+        "property": [
+            "spine",
+            "water_storage",
+            "arid",
+            "plant"
+        ],
+        "hypernyms": [
+            "succulent",
+            "xerophyte",
+            "cactaceae"
+        ]
+    },
+    "Castle": {
+        "different": [
+            "fortress",
+            "palace",
+            "manor"
+        ],
+        "property": [
+            "tower",
+            "moat",
+            "historic",
+            "royal"
+        ],
+        "hypernyms": [
+            "building",
+            "architecture",
+            "historical_site"
+        ]
+    },
+    "Opera": {
+        "different": [
+            "theater",
+            "concert",
+            "ballet"
+        ],
+        "property": [
+            "singing",
+            "drama",
+            "orchestra",
+            "performance"
+        ],
+        "hypernyms": [
+            "music_drama",
+            "stage_art",
+            "building"
+        ]
+    },
+    "Skateboard": {
+        "different": [
+            "bicycle",
+            "scooter",
+            "roller_skates"
+        ],
+        "property": [
+            "wheels",
+            "board",
+            "sports",
+            "transport"
+        ],
+        "hypernyms": [
+            "vehicle",
+            "sports_equipment",
+            "recreation"
+        ]
+    },
+    "Necklace": {
+        "different": [
+            "bracelet",
+            "ring",
+            "earrings"
+        ],
+        "property": [
+            "chain",
+            "pendant",
+            "jewelry",
+            "accessory"
+        ],
+        "hypernyms": [
+            "accessory",
+            "ornament",
+            "adornment"
+        ]
+    },
+    "Ice_cream": {
+        "different": [
+            "Sorbet",
+            "Gelato",
+            "Frozen_Yogurt"
+        ],
+        "property": [
+            "cold",
+            "creamy",
+            "flavorful"
+        ],
+        "hypernyms": [
+            "dessert",
+            "treat",
+            "confection"
+        ]
+    },
+    "Shelf": {
+        "different": [
+            "drawer",
+            "cabinet",
+            "box"
+        ],
+        "property": [
+            "wood",
+            "solid",
+            "storage",
+            "furniture"
+        ],
+        "hypernyms": [
+            "container",
+            "storage_unit",
+            "furnishing"
+        ]
+    },
+    "Owl": {
+        "different": [
+            "eagle",
+            "hawk",
+            "falcon"
+        ],
+        "property": [
+            "beak",
+            "wingspan",
+            "nocturnal",
+            "bird"
+        ],
+        "hypernyms": [
+            "bird",
+            "avian",
+            "bird_of_prey"
+        ]
+    },
+    "Bracelet": {
+        "different": [
+            "necklace",
+            "ring",
+            "earrings"
+        ],
+        "property": [
+            "chain",
+            "pendant",
+            "jewelry",
+            "accessory"
+        ],
+        "hypernyms": [
+            "accessory",
+            "ornament",
+            "adornment"
+        ]
+    },
+    "Medicine": {
+        "different": [
+            "food",
+            "water",
+            "air"
+        ],
+        "property": [
+            "pills",
+            "liquid",
+            "capsule",
+            "healing"
+        ],
+        "hypernyms": [
+            "health_care",
+            "treatment",
+            "substance"
+        ]
+    },
+    "Cloud": {
+        "different": [
+            "rain",
+            "snow",
+            "fog"
+        ],
+        "property": [
+            "fluffy",
+            "weather",
+            "element"
+        ],
+        "hypernyms": [
+            "weather_phenomenon",
+            "atmospheric_phenomenon",
+            "meteorological_phenomenon"
+        ]
+    },
+    "Sheep": {
+        "different": [
+            "goat",
+            "cow",
+            "horse"
+        ],
+        "property": [
+            "wool",
+            "fleece",
+            "herd",
+            "mammal"
+        ],
+        "hypernyms": [
+            "animal",
+            "livestock",
+            "ovis"
+        ]
+    },
+    "Lake": {
+        "different": [
+            "river",
+            "ocean",
+            "stream"
+        ],
+        "property": [
+            "water",
+            "blue",
+            "calm",
+            "geography"
+        ],
+        "hypernyms": [
+            "body_of_water",
+            "water_feature",
+            "landform"
+        ]
+    },
+    "Spoon": {
+        "different": [
+            "fork",
+            "knife",
+            "chopsticks"
+        ],
+        "property": [
+            "bowl",
+            "handle",
+            "eating",
+            "utensil"
+        ],
+        "hypernyms": [
+            "cutlery",
+            "tableware",
+            "flatware"
+        ]
+    },
+    "Bus": {
+        "different": [
+            "car",
+            "train",
+            "bike"
+        ],
+        "property": [
+            "wheels",
+            "windows",
+            "passengers",
+            "public"
+        ],
+        "hypernyms": [
+            "vehicle",
+            "transportation",
+            "mass_transit"
+        ]
+    },
+    "Windmill": {
+        "different": [
+            "solar_panel",
+            "dam",
+            "nuclear_power_plant"
+        ],
+        "property": [
+            "sails",
+            "tower",
+            "energy",
+            "green"
+        ],
+        "hypernyms": [
+            "power_source",
+            "structure",
+            "renewable_energy"
+        ]
+    },
+    "Duck": {
+        "different": [
+            "goose",
+            "swan",
+            "penguin"
+        ],
+        "property": [
+            "feather",
+            "quack",
+            "water_bird",
+            "bird"
+        ],
+        "hypernyms": [
+            "bird",
+            "avian",
+            "waterfowl"
+        ]
+    },
+    "Mango": {
+        "different": [
+            "banana",
+            "apple",
+            "cherry"
+        ],
+        "property": [
+            "sweet",
+            "fruit",
+            "juicy"
+        ],
+        "hypernyms": [
+            "fruit",
+            "produce",
+            "food"
+        ]
+    },
+    "Smoke": {
+        "different": [
+            "water",
+            "air",
+            "earth"
+        ],
+        "property": [
+            "warm",
+            "rising",
+            "element"
+        ],
+        "hypernyms": [
+            "phenomenon",
+            "substance",
+            "particulate"
+        ]
+    },
+    "Carrot": {
+        "different": [
+            "zucchini",
+            "celery",
+            "turnip"
+        ],
+        "property": [
+            "root",
+            "veggie",
+            "crunchy"
+        ],
+        "hypernyms": [
+            "vegetable",
+            "produce",
+            "food"
+        ]
+    },
+    "Mall": {
+        "different": [
+            "market",
+            "square",
+            "park"
+        ],
+        "property": [
+            "shops",
+            "crowded",
+            "covered",
+            "shopping"
+        ],
+        "hypernyms": [
+            "shopping_center",
+            "retail_facility",
+            "commercial_space"
+        ]
+    },
+    "Brush": {
+        "different": [
+            "pen",
+            "marker",
+            "paintbrush"
+        ],
+        "property": [
+            "hair",
+            "handle",
+            "tool",
+            "writing"
+        ],
+        "hypernyms": [
+            "artistic_tool",
+            "stationery",
+            "utensil"
+        ]
+    },
+    "Branch": {
+        "different": [
+            "leaf",
+            "flower",
+            "seed"
+        ],
+        "property": [
+            "wood",
+            "plant_part",
+            "nature"
+        ],
+        "hypernyms": [
+            "tree_part",
+            "botany",
+            "plant_structure"
+        ]
+    },
+    "Vase": {
+        "different": [
+            "bowl",
+            "pot",
+            "cup"
+        ],
+        "property": [
+            "glass",
+            "porcelain",
+            "decorative",
+            "container"
+        ],
+        "hypernyms": [
+            "container",
+            "decoration",
+            "artifact"
+        ]
+    },
+    "Seed": {
+        "different": [
+            "stone",
+            "shell",
+            "husk"
+        ],
+        "property": [
+            "tiny",
+            "plant",
+            "future_plant",
+            "hatch"
+        ],
+        "hypernyms": [
+            "offspring"
+        ]
+    },
+    "Valley": {
+        "different": [
+            "mountain",
+            "plain",
+            "canyon"
+        ],
+        "property": [
+            "low",
+            "narrow",
+            "green",
+            "geography"
+        ],
+        "hypernyms": [
+            "landform",
+            "topography",
+            "geography"
+        ]
+    },
+    "Church": {
+        "different": [
+            "mosque",
+            "synagogue",
+            "temple"
+        ],
+        "property": [
+            "altar",
+            "pews",
+            "religion",
+            "sanctuary"
+        ],
+        "hypernyms": [
+            "place_of_worship",
+            "spiritual_center",
+            "religious_building"
+        ]
+    },
+    "Giraffe": {
+        "different": [
+            "zebra",
+            "elephant",
+            "antelope"
+        ],
+        "property": [
+            "long_neck",
+            "stripes",
+            "herd",
+            "mammal"
+        ],
+        "hypernyms": [
+            "animal",
+            "mammal",
+            "herbivore"
+        ]
+    },
+    "Bag": {
+        "different": [
+            "purse",
+            "backpack",
+            "suitcase"
+        ],
+        "property": [
+            "strap",
+            "zipper",
+            "contents",
+            "storage"
+        ],
+        "hypernyms": [
+            "luggage",
+            "bag",
+            "container"
+        ]
+    },
+    "Gallery": {
+        "different": [
+            "museum",
+            "theater",
+            "library"
+        ],
+        "property": [
+            "art",
+            "exhibition",
+            "space",
+            "educational"
+        ],
+        "hypernyms": [
+            "institution",
+            "place_of_learning",
+            "public_space"
+        ]
+    },
+    "Boat": {
+        "different": [
+            "ship",
+            "ferry",
+            "canoe"
+        ],
+        "property": [
+            "oar",
+            "sail",
+            "water",
+            "transport"
+        ],
+        "hypernyms": [
+            "vehicle",
+            "transportation",
+            "watercraft"
+        ]
+    },
+    "Port": {
+        "different": [
+            "airport",
+            "train_station",
+            "bus_station"
+        ],
+        "property": [
+            "ships",
+            "container",
+            "terminal",
+            "transportation"
+        ],
+        "hypernyms": [
+            "transportation_hub",
+            "facility",
+            "commercial_space"
+        ]
+    },
+    "Chocolate": {
+        "different": [
+            "candy",
+            "sugar",
+            "honey"
+        ],
+        "property": [
+            "sweet",
+            "food",
+            "cocoa"
+        ],
+        "hypernyms": [
+            "food",
+            "sweetener",
+            "confectionery"
+        ]
+    },
+    "Clock": {
+        "different": [
+            "watch",
+            "calendar",
+            "alarm"
+        ],
+        "property": [
+            "hands",
+            "face",
+            "time",
+            "device"
+        ],
+        "hypernyms": [
+            "timepiece",
+            "instrument",
+            "tool"
+        ]
+    },
+    "Shed": {
+        "different": [
+            "barn",
+            "greenhouse",
+            "stable"
+        ],
+        "property": [
+            "wood",
+            "roof",
+            "storage",
+            "farm"
+        ],
+        "hypernyms": [
+            "building",
+            "structure",
+            "agriculture"
+        ]
+    },
+    "Ship": {
+        "different": [
+            "boat",
+            "ferry",
+            "canoe"
+        ],
+        "property": [
+            "oar",
+            "sail",
+            "water",
+            "transport"
+        ],
+        "hypernyms": [
+            "vehicle",
+            "transportation",
+            "watercraft"
+        ]
+    },
+    "Glasses": {
+        "different": [
+            "sunglasses",
+            "contact_lenses",
+            "lens_cleaning_solution"
+        ],
+        "property": [
+            "frame",
+            "lens",
+            "glasses",
+            "vision"
+        ],
+        "hypernyms": [
+            "eyewear",
+            "vision_aid",
+            "optical_equipment"
+        ]
+    },
+    "Knife": {
+        "different": [
+            "fork",
+            "spoon",
+            "chopsticks"
+        ],
+        "property": [
+            "blade",
+            "metal",
+            "utensil",
+            "cutting"
+        ],
+        "hypernyms": [
+            "cutlery",
+            "flatware"
+        ]
+    },
+    "Cat": {
+        "different": [
+            "dog",
+            "bird",
+            "fish"
+        ],
+        "property": [
+            "tail",
+            "claws",
+            "furry",
+            "friendly"
+        ],
+        "hypernyms": [
+            "mammal",
+            "pet",
+            "animal"
+        ]
+    },
+    "Scissors": {
+        "different": [
+            "knife",
+            "fork",
+            "spoon"
+        ],
+        "property": [
+            "blades",
+            "metal",
+            "utensil",
+            "cutting"
+        ],
+        "hypernyms": [
+            "cutting_tool",
+            "stationery",
+            "utensil"
+        ]
+    },
+    "Train": {
+        "different": [
+            "bus",
+            "car",
+            "plane"
+        ],
+        "property": [
+            "wheels",
+            "windows",
+            "passengers",
+            "transport"
+        ],
+        "hypernyms": [
+            "vehicle",
+            "transportation",
+            "mass_transit"
+        ]
+    },
+    "Chair": {
+        "different": [
+            "couch",
+            "bed",
+            "table"
+        ],
+        "property": [
+            "legs",
+            "back",
+            "seat",
+            "furniture"
+        ],
+        "hypernyms": [
+            "furnishing",
+            "structure",
+            "surface"
+        ]
+    },
+    "Stadium": {
+        "different": [
+            "arena",
+            "gym",
+            "track"
+        ],
+        "property": [
+            "seats",
+            "field",
+            "sports",
+            "crowded"
+        ],
+        "hypernyms": [
+            "recreation_area",
+            "facility",
+            "place_of_assembly"
+        ]
+    },
+    "Scarf": {
+        "different": [
+            "shawl",
+            "wrap",
+            "sash"
+        ],
+        "property": [
+            "fabric",
+            "warm",
+            "fashion",
+            "accessory"
+        ],
+        "hypernyms": [
+            "clothing"
+        ]
+    },
+    "Butterfly": {
+        "different": [
+            "bee",
+            "moth",
+            "fly"
+        ],
+        "property": [
+            "wings",
+            "colorful",
+            "transformation",
+            "insect"
+        ],
+        "hypernyms": [
+            "insect",
+            "creature",
+            "fauna"
+        ]
+    },
+    "Shirt": {
+        "different": [
+            "pants",
+            "skirt",
+            "dress"
+        ],
+        "property": [
+            "collar",
+            "sleeves",
+            "fabric",
+            "clothing"
+        ],
+        "hypernyms": [
+            "clothing",
+            "garment",
+            "fashion"
+        ]
+    },
+    "Laptop": {
+        "different": [
+            "desktop",
+            "tablet",
+            "server"
+        ],
+        "property": [
+            "screen",
+            "keyboard",
+            "processor",
+            "technology"
+        ],
+        "hypernyms": [
+            "device",
+            "electronic",
+            "hardware"
+        ]
+    },
+    "Station": {
+        "different": [
+            "train_station",
+            "bus_station",
+            "port"
+        ],
+        "property": [
+            "platform",
+            "trains",
+            "people",
+            "transportation"
+        ],
+        "hypernyms": [
+            "transportation_hub",
+            "facility",
+            "commercial_space"
+        ]
+    },
+    "Sofa": {
+        "different": [
+            "chair",
+            "couch",
+            "bed"
+        ],
+        "property": [
+            "cushion",
+            "back",
+            "seating",
+            "furniture"
+        ],
+        "hypernyms": [
+            "furnishing",
+            "structure",
+            "surface"
+        ]
+    },
+    "Backpack": {
+        "different": [
+            "purse",
+            "suitcase",
+            "duffel_bag"
+        ],
+        "property": [
+            "strap",
+            "zipper",
+            "contents",
+            "storage"
+        ],
+        "hypernyms": [
+            "luggage",
+            "bag",
+            "container"
+        ]
+    },
+    "Cake": {
+        "different": [
+            "pie",
+            "pastry",
+            "bread"
+        ],
+        "property": [
+            "icing",
+            "layers",
+            "sweet",
+            "food"
+        ],
+        "hypernyms": [
+            "food",
+            "baked_good",
+            "dessert"
+        ]
+    },
+    "Banana": {
+        "different": [
+            "apple",
+            "cherry",
+            "strawberry"
+        ],
+        "property": [
+            "long",
+            "sweet",
+            "fruit"
+        ],
+        "hypernyms": [
+            "fruit",
+            "produce",
+            "food"
+        ]
+    },
+    "Garage": {
+        "different": [
+            "shed",
+            "stable",
+            "greenhouse"
+        ],
+        "property": [
+            "wood",
+            "roof",
+            "storage",
+            "farm"
+        ],
+        "hypernyms": [
+            "building",
+            "structure",
+            "agriculture"
+        ]
+    },
+    "Pen": {
+        "different": [
+            "marker",
+            "paintbrush",
+            "brush"
+        ],
+        "property": [
+            "nib",
+            "ink",
+            "writing",
+            "tool"
+        ],
+        "hypernyms": [
+            "writing_instrument",
+            "stationery",
+            "utensil"
+        ]
+    },
+    "Gate": {
+        "different": [
+            "door",
+            "window",
+            "wall"
+        ],
+        "property": [
+            "hinge",
+            "handle",
+            "opening",
+            "entry"
+        ],
+        "hypernyms": [
+            "entry_point",
+            "structure",
+            "architecture"
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "item":{
+        "bitmapped_flower":"flower",
+        "pixel_art_cat":"cat, animal, feline",
+        "pixel_art_sword":"sword"
+    },
+    "style":"pixel,bricks"
+}

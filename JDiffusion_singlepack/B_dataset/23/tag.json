@@ -1,0 +1,8 @@
+{
+    "item":{
+        "cupcake":"cupcake",
+        "pair_of_sneakers":"shoes, sneakers",
+        "robot":"robot"
+    },
+    "style":"simple_background"
+}

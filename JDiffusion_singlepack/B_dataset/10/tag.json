@@ -1,0 +1,8 @@
+{
+    "item":{
+        "chess_set":"chess, board",
+        "record_player":"record, device",
+        "retro_radio":"radio, device"
+    },
+    "style":"radial,stripes"
+}

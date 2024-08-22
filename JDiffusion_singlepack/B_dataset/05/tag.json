@@ -1,0 +1,8 @@
+{
+    "item":{
+        "map":"map",
+        "parrot":"parrot, bird",
+        "pirate_hat":"hat, pirate,"
+    },
+    "style":"gray_background"
+}
